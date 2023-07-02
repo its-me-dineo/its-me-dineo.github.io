@@ -1,7 +1,7 @@
 ---
 layout:
-    title: TLDR
-    description: A summary of what I'm offering
+title: TLDR
+description: A summary of what I'm offering
 ---
 
 # TLDR
