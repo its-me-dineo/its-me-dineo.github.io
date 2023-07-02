@@ -2,6 +2,6 @@
 layout: default
 ---
 
-I'm using Github Pages to create and host my website!
+This is the main page! Use this page to navigate all the pages.
 
-I need to learn quite a bit in order to make this better.
+[Link to another page](./another-page.html).
