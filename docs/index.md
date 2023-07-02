@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Where are you going?
+## Where are you going?
 
 I'm using Github Pages to create and host my website!
 
