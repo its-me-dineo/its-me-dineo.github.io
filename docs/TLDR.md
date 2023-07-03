@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: TLDR
 description: A summary of everything
 ---
 
