@@ -4,5 +4,5 @@ theme: jekyll-theme-cayman
 
 show_downloads: true
 github:
-  zip_url: https://its-me-dineo.github.io/
-  tar_url: https://twitter.com/dinospond
+  mainpage_url: https://its-me-dineo.github.io/
+  twitter_url: https://twitter.com/dinospond
