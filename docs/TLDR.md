@@ -1,7 +1,6 @@
 ---
 layout: default
-title: test
-description: test
+description: A summary of everything
 ---
 
 # TLDR
