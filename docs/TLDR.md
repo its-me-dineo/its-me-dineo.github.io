@@ -1,5 +1,4 @@
 ---
-layout:
 title: TLDR
 description: A summary of what I'm offering
 ---
