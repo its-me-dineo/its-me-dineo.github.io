@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 
 description: A summary of everything
 ---
 
