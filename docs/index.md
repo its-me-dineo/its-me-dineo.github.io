@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**This is the [Main Page](./index.html)!** Use this page to navigate all the pages. You can also use the button above in the header!
+**This is the [Main Page](./index.html)!** Use the button in the header to get back here anytime!
 
 # TLDR
-[TLDR](./TLDR.html) page for everything in summary.
+[TLDR](./TLDR.html) for everything in summary.
