@@ -14,14 +14,23 @@ description: Summary of it all!
 
 Personalized guidelines.
     
-    - "Unlimited" revisions.
+- "Unlimited" revisions.
+- 
 
 Basic guidelines.
 
-    - I can refuse any commission.
-    - I can refuse any commission for any reason.
-    - You can 
+- I can refuse any commission.
+- I can refuse to continue work.
+- I can refuse to revisit previous work.
+- I can refuse any type of payment.
+- I have ownership of work produced.
+- You will be sent updates, asked for feedback, and sent a full resolution final file.
 
+# Ownership
+
+I own the work I create. I should be credited in the same post of where the content I created is posted. Preferred credit is "Edited: @dinospond on Twitter".
+
+When you buy my work. You are paying to create my work and buying rights to post my work. You lose rights to your bought product if content is posted maliciously. Including but not limited to, to target, harass, or bully people or persons.
 
 # Commissions
 
@@ -33,12 +42,8 @@ Commissions are case by case. Prices are based of work and time invested, and ex
 
 Likely to increase cost:
 
-    - Abundance of detailed masking 
-    - Abundance of movement
-
-# Ownership
-
-I own the work I create. I should be credited in the same post of where the content I created is posted. Preferred credit is "Edited: @dinospond on Twitter".
+- Abundance of detailed masking 
+- Abundance of movement
 
 # Payment
 
