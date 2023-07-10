@@ -12,8 +12,8 @@ Find my Twitter on the Header above!
 
 # On Youtube
 
-[![SNIFF CHECK!](http://img.youtube.com/vi/4X3wKDQF1QA/0.jpg)](http://www.youtube.com/watch?v=4X3wKDQF1QA "SNIFF CHECK!")
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4X3wKDQF1QA" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4X3wKDQF1QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://twitter.com/i/status/1671306946266427392" title="Twitter Video"></iframe>
 
 # [**Back**](./)
