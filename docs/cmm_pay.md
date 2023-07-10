@@ -19,7 +19,7 @@ Likely to increase cost:
 - Abundance of detailed masking.
 - Abundance of movement.
 
-Contact me by sending me a DM on Discord: `@dinooooooooooooooooo`.
+Contact me for a commission by sending me a DM on Discord: `@dinooooooooooooooooo`.
 
 # Payment
 
