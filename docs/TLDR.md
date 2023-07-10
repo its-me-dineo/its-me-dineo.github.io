@@ -10,9 +10,21 @@ description: Summary of it all!
 - I want to be able to do any video editing style.
 - I want to offer affordable video editing skill to indie content creators.
 
+I want to grow to create amazing work and provide that to others so they build something they love.
+
 # My Work
 
 If you want to find my work please go to [My Work](./https://its-me-dineo.github.io/mywork.html)
+
+# Me! Dino!
+
+IM DINO!!! Hello! I'm excited to have you here. Want to work together? I'm here for you :D
+
+I want to create videos and edits I'm or others are proud of. I know I will always have something to learn, and I will learn it, I will make better and better edits.
+
+I'm also really big into communication. You have a question? Ask it! No real pain is just asking. If you request a commission, I'm 1000% open to hearing everything of the little edits you want, what style you'd like, or just a specific special effect. That's why I have "unlimited" revisions, I want you to get your vision, and I want to be able to provide it.
+
+If you want some of my work, THANK YOU! Keep reading to get caught up on my Terms of Service and Guidelines to learn about my human limits <3.
 
 # Terms of Service
 
@@ -30,13 +42,14 @@ Guidelines that can be discussed and changed based on your needs.
 - Prices are in USD (US Dollar).
 - No refunds.
 - No strict deadlines.
-- I can post my work publically.
+- I'm allowed to post your commission publically as my examples.
 - Videos are made at fps (30 frame per second).
 
 ## Strict Guidelines.
 
 Guidelines that cannot be negotiated.
 
+- When you request a commission, it is assumed and agreed you are agreeing to my Terms of Services and Guidelines.
 - I have the right to change my TOS or Guidelines instantaneously if a exploitation has be found. 
 - I have the right to refuse any commission.
 - I have the right to refuse to continue work.
