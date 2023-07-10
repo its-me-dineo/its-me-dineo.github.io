@@ -7,7 +7,7 @@ description: Setting some rules and boundaries.
 
 All parts of my Terms of Service and Guidelines are subject to change. Read TOS and Guidelines before requesting commission(s).
 
-If you have questions about my TOS, Guidelines, or Ownership. Let me know and ask away. I'm sure I have an answer for you. The more questionable guidelines are too ensure safety and manage stress levels to continue working and provide you a nurtured product.
+If you have questions about my Terms of Service (TOS), Guidelines, or Ownership. Let me know and ask away. I'm sure I have an answer for you. The more questionable guidelines are too ensure safety and manage stress levels to continue working and provide you a nurtured product.
 
 ## Personalized Guidelines.
 
