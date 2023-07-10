@@ -25,7 +25,7 @@ If you want some of my work, THANK YOU! Keep reading to get caught up on my Term
 
 # My Work
 
-If you want to find my work please go to [My Work](./mywork.html)
+If you want to look at my past works go check out [My Work](./mywork.html)!
 
 # Terms of Service and Guidelines
 
@@ -35,7 +35,7 @@ To read my Terms of Service and Guidelines, please read [Doing Business](./tos_g
 
 I own the work I create. I should be credited in the same post of where the content I created is posted. Preferred credit is "Edited: @dinospond on Twitter".
 
-When you buy my work. You are paying for me to create my work and buying rights to post your commision of my work. You lose rights to your bought product if it's posted maliciously. Including but not limited to, to target, harass, or bully people or persons.
+When you buy my work. You are paying for me to create my work and buying rights to post your commision of my work, including commercial use. You lose those rights to your bought product if it's posted maliciously. Including but not limited to, to target, harass, or bully people or persons.
 
 # Commissions
 

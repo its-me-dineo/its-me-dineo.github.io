@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Work
-description: The past
+description: The past works.
 ---
 
 My Twitter would be the most updated place for finding my work because of the simplicity. 
