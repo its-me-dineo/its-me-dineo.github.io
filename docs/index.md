@@ -4,7 +4,7 @@ layout: default
 
 # It's me Dino.
 
-**This is the [Main Page](./index.html)!** 
+**This is the Main Page!** 
 
 Use the button in the header to get back here anytime!
 
