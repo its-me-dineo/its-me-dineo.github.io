@@ -10,47 +10,66 @@ description: Summary of it all!
 - I want to be able to do any video editing style.
 - I want to offer affordable video editing skill to indie content creators.
 
+# My Work
+
+If you want to find my work please go to [My Work](./https://its-me-dineo.github.io/mywork.html)
+
 # Terms of Service
 
-Personalized guidelines.
-    
+All parts of my Terms of Service and Guidelines are subject to change. Read TOS and Guidelines before requesting commission(s).
+
+## Personalized Guidelines.
+
+- "Unlimited" communication.
 - "Unlimited" revisions.
-- 
 
-Basic guidelines.
+## Negoticable Guidelines
 
-- I can refuse any commission.
-- I can refuse to continue work.
-- I can refuse to revisit previous work.
-- I can refuse any type of payment.
+Guidelines that can be discussed and changed based on your needs. 
+
+- Prices are in USD (US Dollar).
+- No refunds.
+- No strict deadlines.
+- I can post my work publically.
+- Videos are made at fps (30 frame per second).
+
+## Strict Guidelines.
+
+Guidelines that cannot be negotiated.
+
+- I have the right to change my TOS or Guidelines instantaneously if a exploitation has be found. 
+- I have the right to refuse any commission.
+- I have the right to refuse to continue work.
+- I have the right to refuse to revisit previous work.
+- I have the right to refuse any type of payment.
 - I have ownership of work produced.
-- You will be sent updates, asked for feedback, and sent a full resolution final file.
+- You will be asked for feedback and sent at least 1 update.
+- If work is finalized, you will be sent a full resolution file.
+- Payment needs to be paid in full before recieving final file.
 
 # Ownership
 
 I own the work I create. I should be credited in the same post of where the content I created is posted. Preferred credit is "Edited: @dinospond on Twitter".
 
-When you buy my work. You are paying to create my work and buying rights to post my work. You lose rights to your bought product if content is posted maliciously. Including but not limited to, to target, harass, or bully people or persons.
+When you buy my work. You are paying for me to create my work and buying rights to post your commision of my work. You lose rights to your bought product if it's posted maliciously. Including but not limited to, to target, harass, or bully people or persons.
 
 # Commissions
 
-Commissions are case by case. Prices are based of work and time invested, and experience. 
+Commissions are case by case. Prices are based of work and time invested, and experience.
 
-- Simple 0-59s short form content - ~$2.
-- Not simple 0-59s short form content - ~$3
-- Simple 2-5m standard form content - ~$5
+- Simple, 0-59s, short form content: ~$2.
+- Not simple, 0-59s, short form content: ~$3.
+- Simple, 2-5m, standard video content: ~$5.
 
 Likely to increase cost:
 
-- Abundance of detailed masking 
-- Abundance of movement
+- Abundance of detailed masking.
+- Abundance of movement.
 
 # Payment
 
-I don't have a uniform payment method yet. I'm very open to forms of payment currently, including Twitch Gifted Subs, Steam games, Gift cards, and other forms of payment. "Dino credit" is also open for use!
+I don't have a uniform payment method yet. I'm very open to forms of payment currently, including Twitch Gifted Subs, Steam games, Gift cards, and other forms of payment. 
 
-# My Work
-
-If you want to find my work please go to [My Work](./https://its-me-dineo.github.io/mywork.html)
+"Dino credit" is also open for use! If you overpay, the amount overpaid can be used to fund other commissions by me!
 
 # [**Back**](./)
