@@ -27,39 +27,9 @@ If you want some of my work, THANK YOU! Keep reading to get caught up on my Term
 
 If you want to find my work please go to [My Work](./mywork.html)
 
-# Terms of Service
+# Terms of Service and Guidelines
 
-All parts of my Terms of Service and Guidelines are subject to change. Read TOS and Guidelines before requesting commission(s).
-
-## Personalized Guidelines.
-
-- "Unlimited" communication.
-- "Unlimited" revisions.
-
-## Negoticable Guidelines
-
-Guidelines that can be discussed and changed based on your needs. 
-
-- Prices are in USD (US Dollar).
-- No refunds.
-- No strict deadlines.
-- I'm allowed to post your commission publically as my examples.
-- Videos are made at 30 fps (30 frame per second).
-- Payment needs to be paid in full before recieving final file.
-
-## Strict Guidelines.
-
-Guidelines that cannot be negotiated.
-
-- When you request a commission, it is assumed and agreed you are agreeing to my Terms of Services and Guidelines.
-- I have the right to change my TOS or Guidelines instantaneously if a exploitation has be found. 
-- I have the right to refuse any commission.
-- I have the right to refuse to continue work.
-- I have the right to refuse to revisit previous work.
-- I have the right to refuse any type of payment.
-- I have ownership of work produced.
-- You will be asked for feedback and sent at least 1 update.
-- If work is finalized, you will be sent a full resolution file.
+To read my Terms of Service and Guidelines, please read [Doing Business](./tos_gl_os.html).
 
 # Ownership
 
@@ -80,10 +50,12 @@ Likely to increase cost:
 - Abundance of detailed masking.
 - Abundance of movement.
 
+Get more detail on the [Commissions Page](./cmm_pay.html).
+
 # Payment
 
-I don't have a uniform payment method yet. I'm very open to forms of payment currently, including Twitch Gifted Subs, Steam games, Gift cards, and other forms of payment. 
+I don't have a uniform payment method yet. I'm very open to forms of payment currently, including Twitch Gifted Subs, Steam games, Gift cards, and other forms of payment.
 
-"Dino credit" is also open for use! If you overpay, the amount overpaid can be used to fund other commissions by me!
+Get more detail on the [Payment Page](./cmm_pay.html).
 
 # [**Back**](./)
