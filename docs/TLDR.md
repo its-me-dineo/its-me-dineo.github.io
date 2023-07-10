@@ -9,12 +9,9 @@ description: Summary of it all!
 - I want to learn and grow to become a great video editor. 
 - I want to be able to do any video editing style.
 - I want to offer affordable video editing skill to indie content creators.
+- I want to offer editing skill to anyone who wants it!
 
 I want to grow to create amazing work and provide that to others so they build something they love.
-
-# My Work
-
-If you want to find my work please go to [My Work](./mywork.html)
 
 # Me! Dino!
 
@@ -25,6 +22,10 @@ I want to create videos and edits I'm or others are proud of. I know I will alwa
 I'm also really big into communication. You have a question? Ask it! No real pain is just asking. If you request a commission, I'm 1000% open to hearing everything of the little edits you want, what style you'd like, or just a specific special effect. That's why I have "unlimited" revisions, I want you to get your vision, and I want to be able to provide it.
 
 If you want some of my work, THANK YOU! Keep reading to get caught up on my Terms of Service and Guidelines to learn about my human limits <3.
+
+# My Work
+
+If you want to find my work please go to [My Work](./mywork.html)
 
 # Terms of Service
 
@@ -43,7 +44,8 @@ Guidelines that can be discussed and changed based on your needs.
 - No refunds.
 - No strict deadlines.
 - I'm allowed to post your commission publically as my examples.
-- Videos are made at fps (30 frame per second).
+- Videos are made at 30 fps (30 frame per second).
+- Payment needs to be paid in full before recieving final file.
 
 ## Strict Guidelines.
 
@@ -58,7 +60,6 @@ Guidelines that cannot be negotiated.
 - I have ownership of work produced.
 - You will be asked for feedback and sent at least 1 update.
 - If work is finalized, you will be sent a full resolution file.
-- Payment needs to be paid in full before recieving final file.
 
 # Ownership
 
