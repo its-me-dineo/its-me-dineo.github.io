@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Commissions and Payment
-description: How to request a commission and pay.
+description: How to request a commission. How to pay.
 ---
 
 # Commissions

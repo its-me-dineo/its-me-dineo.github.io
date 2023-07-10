@@ -43,6 +43,6 @@ Guidelines that cannot be negotiated.
 
 I own the work I create. I should be credited in the same post of where the content I created is posted. Preferred credit is "Edited: @dinospond on Twitter".
 
-When you buy my work. You are paying for me to create my work and buying rights to post your commision of my work, including commercial use. You lose those rights to your bought product if it's posted maliciously. Including but not limited to, to target, harass, or bully people or persons.
+When you buy my work. You are paying for me to create my work and buying rights to post your commission of my work, including commercial use. You lose those rights to your bought product if it's posted maliciously. Including but not limited to, to target, harass, or bully people or persons.
 
 # [**Back**](./)
