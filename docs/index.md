@@ -21,4 +21,4 @@ What I want to do and provide.
 Our rules and boundaries. How we are going to do business!
 
 # Commissions and Payment - [Commissions and Payment](./cmm_pay.html)
-How request a submission! Where and how to pay.
+How to request a submission! Where and how to pay.
