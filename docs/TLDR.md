@@ -14,7 +14,7 @@ I want to grow to create amazing work and provide that to others so they build s
 
 # My Work
 
-If you want to find my work please go to [My Work](./https://its-me-dineo.github.io/mywork.html)
+If you want to find my work please go to [My Work](./mywork.html)
 
 # Me! Dino!
 
