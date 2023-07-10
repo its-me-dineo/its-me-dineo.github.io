@@ -39,7 +39,7 @@ When you buy my work. You are paying for me to create my work and buying rights 
 
 # Commissions
 
-Commissions are case by case. Prices are based of work and time invested, and experience.
+Commissions are case by case. Prices are based off work and time invested, and experience.
 
 - Simple, 0-59s, short form content: ~$2.
 - Not simple, 0-59s, short form content: ~$3.

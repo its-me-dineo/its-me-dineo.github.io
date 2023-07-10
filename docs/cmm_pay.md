@@ -6,7 +6,7 @@ description: How to request a commission. How to pay.
 
 # Commissions
 
-Commissions are case by case. Prices are based of work and time invested, and experience.
+Commissions are case by case. Prices are based off work and time invested, and experience.
 
 I want to learn far and great lengths. If what I provide here isn't enough, contact me and ask, I want to push to provide something better and provide something you want.
 
