@@ -12,7 +12,7 @@ I want to learn far and great lengths. If what I provide here isn't enough, cont
 
 - Simple, 0-59s, short form content: ~$2.
 - Not simple, 0-59s, short form content: ~$3.
-- Simple, 2-5m, standard video content: ~$5.
+- Simple, 2-4m, standard video content: ~$5.
 
 Likely to increase cost:
 

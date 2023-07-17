@@ -43,7 +43,7 @@ Commissions are case by case. Prices are based off work and time invested, and e
 
 - Simple, 0-59s, short form content: ~$2.
 - Not simple, 0-59s, short form content: ~$3.
-- Simple, 2-5m, standard video content: ~$5.
+- Simple, 2-4m, standard video content: ~$5.
 
 Likely to increase cost:
 
