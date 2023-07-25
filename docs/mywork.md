@@ -18,7 +18,7 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short.
 
 ### "Better - LOLA Loading (D Visual Remix 2)" 
 Remixed LOLA Loading "Better" music video. Resynced and re-edited with more effects and lyrics.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ozxVKKqyNHc" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/og1TRQo0ytg" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ### "Is this how you stall?" 
 Eirenes stream highlight Youtube Short. So simple masking here :D
