@@ -16,6 +16,10 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made i
 
 # On Youtube
 
+### "Moonlight" - Kafka
+Edit of Kafka from Honkai Star Rail. Made in August 2023.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/63noHvIzgWs" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 ### "Better - LOLA Loading (D Visual Remix 2)" 
 Remixed LOLA Loading "Better" music video. Resynced and re-edited with more effects and lyrics. Made in July 2023.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/og1TRQo0ytg" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
