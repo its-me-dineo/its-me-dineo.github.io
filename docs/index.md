@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My Work - [Link](./mywork.html)
+# My Work - [LINK](./mywork.html)
 Find examples of previous work.
 
 # Video Editing Commissions - [LINK](./videoeditingcomms.md)
