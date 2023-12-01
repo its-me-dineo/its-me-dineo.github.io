@@ -6,13 +6,11 @@ description: My past works.
 
 # On Twitter
 
-My Twitter would be the most updated place for finding my work because of the simplicity of posts.
-
-Find my Twitter on the Header above!
-
 ### "My Wish" album teaser
 Teaser for Eirenes "My Wish" EP, specifically the "Come True" music video. Made in October 2023.
 [https://twitter.com/eireneVT/status/1709916349563105462](https://twitter.com/eireneVT/status/1709916349563105462)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">🚨I&#39;m excited to announce my debut EP, &quot;My Wish&quot; releasing October 13th! 🚨<br><br>It&#39;̷̦̈́s̵̄̆ ̵̆͜m̶̓̐e̸͛͒ ̵̊̃Bert, ̵͝I snuck in a sneak͝ ̶̗̓peek̵͔͌ for̆ ̵̌͛you<br><br>I&#39;m also hosting an EXCLUSIVE listening party with esteemed guests, and YOU TOO can enter a raffle to join!<br><br>More below! <a href="https://t.co/a3Gm8yzSie">pic.twitter.com/a3Gm8yzSie</a></p>&mdash; eirene ♥️🍓 | PROJEKT NOVA 🇲🇾 (@eireneVT) <a href="https://twitter.com/eireneVT/status/1709916349563105462?ref_src=twsrc%5Etfw">October 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### "Sniff Check" 
 Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made in June 2023.
@@ -22,7 +20,7 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made i
 
 ### "RYNxRYN teabags a ghost..."
 RYNxRYN stream clip Youtube Short. Simple masking. Made in November 2023.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HzM2ANqkRS4" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/HzM2ANqkRS4" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ### "VTuber Management 101"
 Cut of "VTuber Management 101" stream by Manager-kun. 3 hour stream cut to 1 hour video. Posted in November 2023.
@@ -30,11 +28,11 @@ Cut of "VTuber Management 101" stream by Manager-kun. 3 hour stream cut to 1 hou
 
 ### "Taell teaches you about doors."
 Taells stream clip Youtube Short. More advanced masking here. Made in October 2023.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dbVIrOWkGAU" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/dbVIrOWkGAU" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ### "We're Fu... Together we're FUWAMOCO"
 Translated stream clip to portrait with proper zooms. Made in October 2023.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w5v0pOpgnwA" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/w5v0pOpgnwA" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ### "Moonlight" - Kafka
 Edit of Kafka from Honkai Star Rail. Made in August 2023.
