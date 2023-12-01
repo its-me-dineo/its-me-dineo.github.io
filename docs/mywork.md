@@ -10,8 +10,6 @@ description: My past works.
 Teaser for Eirenes "My Wish" EP, specifically the "Come True" music video. Made in October 2023.
 [https://twitter.com/eireneVT/status/1709916349563105462](https://twitter.com/eireneVT/status/1709916349563105462)
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">🚨I&#39;m excited to announce my debut EP, &quot;My Wish&quot; releasing October 13th! 🚨<br><br>It&#39;̷̦̈́s̵̄̆ ̵̆͜m̶̓̐e̸͛͒ ̵̊̃Bert, ̵͝I snuck in a sneak͝ ̶̗̓peek̵͔͌ for̆ ̵̌͛you<br><br>I&#39;m also hosting an EXCLUSIVE listening party with esteemed guests, and YOU TOO can enter a raffle to join!<br><br>More below! <a href="https://t.co/a3Gm8yzSie">pic.twitter.com/a3Gm8yzSie</a></p>&mdash; eirene ♥️🍓 | PROJEKT NOVA 🇲🇾 (@eireneVT) <a href="https://twitter.com/eireneVT/status/1709916349563105462?ref_src=twsrc%5Etfw">October 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### "Sniff Check" 
 Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made in June 2023.
 [https://twitter.com/eireneVT/status/1671306946266427392](https://twitter.com/eireneVT/status/1671306946266427392)

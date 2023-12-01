@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Dino's Pond
 ---
-
-# Dino's Pond
 
 # My Work - [LINK](./mywork.html)
 Find examples of previous work.
