@@ -65,9 +65,9 @@ Commissions are case by case. Prices are based off work and time invested, and e
 
 I want to learn far and great lengths. If what I provide here isn't enough, contact me and ask, I want to push to provide something better and provide something you want.
 
-- Simple, 0-59s, short form content: ~$2.
-- Not simple, 0-59s, short form content: ~$3.
-- Simple, 2-4m, standard video content: ~$5.
+- Simple, 0-59s, short form content: ~$5.
+- Not simple, 0-59s, short form content: ~$7.
+- Simple, 2-4m, standard video content: ~$10.
 
 Likely to increase cost:
 
