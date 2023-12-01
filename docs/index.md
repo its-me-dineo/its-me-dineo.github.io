@@ -3,7 +3,7 @@ layout: default
 title: Dino's Pond
 ---
 
-# A surprise project - [LINK](./asurprise.md)
+# A Surprise Project - [LINK](./asurpriseproject.md)
 A teaser for a surprise project.
 
 # My Work - [LINK](./mywork.html)

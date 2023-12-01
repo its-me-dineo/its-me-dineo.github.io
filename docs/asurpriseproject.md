@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A surprise project
+title: A Surprise Project
 description: <3
 ---
 
