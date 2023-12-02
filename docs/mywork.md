@@ -16,6 +16,10 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made i
 
 # On Youtube
 
+### "Hey there is a giant outside-"
+miyuyus stream clip Youtube Short. Simple masking. Made in December 2023.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/MZAxvEDD88g" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 ### "RYNxRYN teabags a ghost..."
 RYNxRYN stream clip Youtube Short. Simple masking. Made in November 2023.
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/HzM2ANqkRS4" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
