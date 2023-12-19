@@ -3,8 +3,10 @@ layout: default
 title: Dino's Pond
 ---
 
+"If it's scary or you don't think you can do it. Look to the stars. You'll be able to succeed."
+
 # A Surprise Project - [LINK](./asurpriseproject.md)
-A teaser for a surprise project.
+Tiny details for a surprise project.
 
 # My Work - [LINK](./mywork.html)
 Find examples of my previous work.
