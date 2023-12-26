@@ -16,6 +16,14 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made i
 
 # On Youtube
 
+### "I Need Ya" Edit
+"I Need Ya" Edit of various vtubers. Made in December 2023.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o6Q31ikNxsE" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "WHY DID SHE STILL GO?"
+VTuberMochi stream clip Youtube Short. Made in December 2023.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/2IejpXWYdfA" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 ### "Hey there is a giant outside-"
 miyuyus stream clip Youtube Short. Simple masking. Made in December 2023.
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/MZAxvEDD88g" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
