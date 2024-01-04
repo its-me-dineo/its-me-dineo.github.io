@@ -16,6 +16,10 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made i
 
 # On Youtube
 
+### "VTUBER VS WOLF"
+ChiaVTuber stream clip Youtube Short. Made in January 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/yv-rINcZiOA" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 ### "I Need Ya" Edit
 "I Need Ya" Edit of various vtubers. Made in December 2023.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o6Q31ikNxsE" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
