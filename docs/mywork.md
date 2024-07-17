@@ -16,6 +16,18 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made i
 
 # On Youtube
 
+### "Working with vtubers❓"
+InuchiThePuppi collab stream made into Youtube Shorts. Made in March 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/hDSOWg7W77s" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "How to be funny🤍😥"
+InuchiThePuppi skit Youtube Short. Made in March 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/7DJi65I8dPk" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "My version of this trend!"
+InuchiThePuppi image swipe Tiktok converted to Youtube Short. Made in March 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/SghNUl0bRew" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 ### "VTUBER VS WOLF"
 ChiaVTuber stream clip Youtube Short. Made in January 2024.
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/yv-rINcZiOA" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
