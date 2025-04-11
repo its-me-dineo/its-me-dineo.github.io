@@ -16,6 +16,58 @@ Eirenes stream highlight in 16:9, came with a shorter 9:16 Youtube Short. Made i
 
 # On Youtube
 
+### "POV: you found your spirit animal in #marvelrivals"
+A stream clip from InuchiThePuppi's stream turn into a Youtube Short. A simple clip of a sad moment in stream, used sad meme, audio, and visual black and white. Used tracking on models face to move the facecam view. Made in March 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/Gd3jy8wE1hc" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "you just cannot deny im the best parkour-er in marvel rivals"
+A stream clip from InuchiThePuppi's stream turn into a Youtube Short. Improved visuals, meme references, and changes of audio and visuals to keep viewer engaged. Made in March 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/CdD7_frWtak" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "i gwenchana 😌✋"
+Creating a Youtube Short of a trending and popular TikTok MMD dance, using InuchiThePuppi's MMD model. Made in Febuary 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/KClHDFRWEEs" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "i could not believe she had THAT 🍴 in her BATHROOM 🚽"
+A stream clip from InuchiThePuppi's stream turned into Youtube Short. Improving sound fx and using risers to indirectly help the viewers with the punchline. Made in January 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/AAaz0_4iuds" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "random toilet paper lore while getting haunted xD"
+A stream clip from InuchiThePuppi's stream turned into Youtube Short. Improving stylized captions and word for word captions and easy to follow along clip. Made in January 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/k5IB1fxKC4I" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "even if it's an adult game,🪓 those 🗡 shouldn't be in your back pocket 😭😭"
+A stream clip from InuchiThePuppi's stream turned into Youtube Short. Using popular sound fx, spoken stylized captions and vignettes to direct the viewers attention focusing on leading the viewers attention to make the joke easy to follow along. Made in January 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/FmjippXccrE" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "😥am I bad for the TV?"
+A stream clip from InuchiThePuppi's stream turned into Youtube Short. Using more complex video effects to create the iconic vibe boom. Made in January 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/8f3TSKeu0CM" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "honestly...was i expecting anything different from mita?"
+A stream clip from InuchiThePuppi's stream turned into Youtube Short. I used sound fx, captions, audio effects, and dynamically moved InuchiThePuppi. Made in January 2025.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/n16yfMhJ2Gc" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "ǝ͟ɹ͟o͟ɯ͟ n͟o͟ʎ͟ ʍ͟o͟ɥ͟s͟ o͟ʇ͟ ʞ͟ɔ͟ɐ͟q͟ ɯ͟ᴉ͟ p͟u͟ɐ͟ ǝ͟ɯ͟ s͟ʇ͟ᴉ͟"
+I made this second hacked video sequence that was played live on stream. It was a creative way to release a cover song by acting as if InuchiThePuppi got hacked and someone was trying to relay information to us. The short itself was made by InuchiThePuppi. I made the hacking sequence. Made in September 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/rLIK2ibd2Yk" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "someone HIJACKED my stream"
+I made the hacked video sequence that was played live on stream. It was a creative way to release a cover song by acting as if InuchiThePuppi got hacked and someone was trying to relay information to us. The short itself was made by InuchiThePuppi. I made the hacking sequence. Made in September 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/TSkHteie30U" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "「FASHION 💗」I'm a Fashionista 💅「AMV/EDIT」"
+InuchiThePuppi's popular AMV style "Fashion" song edit turned to Youtube Short. Made in August 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/kSuf_dqs_Kc" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "DEMON PUP SHOWS DEMON SIDE"
+InuchiThePuppi's Tokyo Catch sponsored stream funny moment turned to Youtube Short. Made in August 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/RiVKklvsfI8" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
+### "CRANE GAMES!!! the highs and lows 😭"
+InuchiThePuppi's Tokyo Catch sponsored stream made into a Youtube Short. Made in August 2024.
+<iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/krnWT6jfWiE" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 ### "Working with vtubers❓"
 InuchiThePuppi collab stream made into Youtube Shorts. Made in March 2024.
 <iframe width="315" height="560" src="https://www.youtube-nocookie.com/embed/hDSOWg7W77s" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
